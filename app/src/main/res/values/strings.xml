@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lenovo</string>
+    <string name="lorem">Lorem Ipsum Loresita meta mata Artum</string>
+    <string name="exit">Close App</string>
+    <string name="about">About Lenovo App</string>
+</resources>
