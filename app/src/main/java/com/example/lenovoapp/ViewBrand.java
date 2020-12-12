@@ -62,7 +62,7 @@ public class ViewBrand extends AppCompatActivity {
         int id = item.getItemId();;
         switch (id){
             case R.id.about:
-                displayMessage("Lenovo Products Mobile App. \n\n Designed By Abdulraheem Sherif Adavuruku - APT223311112");
+                displayMessage("Lenovo Products Mobile App. \n\n Designed By: Abubakar Sadiq Nuhu - Student124718 \n\n abusuhail368@gmail.com");
                 break;
             case android.R.id.home:
                 onBackPressed();
